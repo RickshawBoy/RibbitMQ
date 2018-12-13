@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/rabbitmq/common/Templete.java=UTF-8
+encoding//src/main/java/com/rabbitmq/core/Exchange.java=UTF-8
+encoding//src/main/java/com/rabbitmq/core/ExchangeConsole.java=UTF-8
+encoding//src/main/java/com/rabbitmq/core/ExchangeReceive.java=UTF-8
+encoding//src/main/java/com/rabbitmq/core/NewTask.java=UTF-8
+encoding//src/main/java/com/rabbitmq/core/Receive.java=UTF-8
+encoding//src/main/java/com/rabbitmq/core/Send.java=UTF-8
+encoding//src/main/java/com/rabbitmq/core/TopicReceive.java=UTF-8
+encoding//src/main/java/com/rabbitmq/core/TopicSend.java=UTF-8
+encoding//src/main/java/com/rabbitmq/core/Work.java=UTF-8
